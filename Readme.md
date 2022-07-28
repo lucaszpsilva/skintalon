@@ -1,0 +1,1 @@
+Projeto que eu criei enquanto cursava a faculdade voltado a um site de skins de CSGO
