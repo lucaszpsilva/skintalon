@@ -5,9 +5,9 @@ export const Footer =() => {
       {/* Informações da Marca */}
       <div className="flex flex-col gap-1.5">
         <div className="flex items-center gap-1.5">
-          <span className="text-fuchsia-700 font-black text-lg">⚡</span>
+          <span className="text-lg">⚡</span>
           <span className="text-white font-black text-sm tracking-wider uppercase">
-            SkinTalon<span className="text-fuchsia-700">.com</span>
+            SkinTalon<span className="text-sky-500">.com</span>
           </span>
         </div>
         <p className="text-zinc-600 text-[11px] font-medium max-w-md leading-relaxed">
